@@ -1,0 +1,11 @@
+name: ClansForkRenameAddon
+author: cofob
+version: 0.0.1
+main: ClansForkRenameAddon.Main
+api-version: 1.13
+depend: [ClansFork]
+website: https://git.cofob.ru/cofob/ClansForkRenameAddon
+database: false
+commands:
+  clan:
+    rename: Rename your clan
